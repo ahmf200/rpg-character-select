@@ -1,1 +1,1 @@
-# rpg-character-select
+This is a small project to demonstrate classes.
